@@ -180,10 +180,14 @@ img.profile-pic {
 	font-weight: 300;
 }
 
+#logoBrandFika{
+ width:150px
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
-    width: 60%;
+    max-width: 150 px;
   }
 }
 
